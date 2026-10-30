@@ -93,10 +93,10 @@ Motivos de recusa previstos: `LOWER_THAN_CURRENT`, `BELOW_MIN_BID`, `AUCTION_CLO
 
 | Integrante | Foco | Entregáveis |
 |---|---|---|
-| **A — a definir** | Leiloeiro (núcleo) | Servidor WebSocket, estado do leilão, validação de lances, broadcast (RF2, RF3, RF4) |
-| **B — a definir** | Participante | Cliente CLI: conectar, consultar, dar lance, exibir notificações (RF1, RF4) |
-| **C — a definir** | Encerramento, persistência e experimentos | Timer/encerramento (RF5), snapshot em JSON, roteiro e execução de RE2 e RE3 |
-| **D — a definir** | Documentação e seminário | README, `IA.md`, diagrama, execução em duas máquinas (RE1), slides, vídeo plano B |
+| **A — João Avila** | Leiloeiro (núcleo) | Servidor WebSocket, estado do leilão, validação de lances, broadcast (RF2, RF3, RF4) |
+| **B — Kauã Cavalheiro** | Participante | Cliente CLI: conectar, consultar, dar lance, exibir notificações (RF1, RF4) |
+| **C — Luan Capella** | Encerramento, persistência e experimentos | Timer/encerramento (RF5), snapshot em JSON, roteiro e execução de RE2 e RE3 |
+| **D — Pedro Evaristo** | Documentação e seminário | README, `IA.md`, diagrama, execução em duas máquinas (RE1), slides, vídeo plano B |
 
 **Todos:** resumo de estudo da tecnologia (Seção 1 e vantagens/desvantagens/casos de uso), e preparo para responder qualquer pergunta sobre o código no seminário.
 
