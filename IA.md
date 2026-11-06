@@ -30,7 +30,8 @@ Uma linha por uso relevante, em ordem cronológica.
 | 1 | 30/10 | | | Rascunho do roteiro preliminar da POC a partir da especificação | Arquitetura, formato JSON das mensagens e mapeamento RF/RE no README | _preencher_ | _ex.: trocamos nomes de campos, escolhemos o relógio do Leiloeiro como única fonte de tempo_ |
 | 2 | 06/11 | Kauã | Claude Code | "Como seguir para a Entrega 2?" + pedido para reestruturar o IA.md | Checklist da Entrega 2 e esta estrutura do IA.md | Adaptado | _preencher após revisão do grupo_ |
 | 3 | 06/11 | Kauã | Claude Code | Implementar a POC em Node.js + `ws` seguindo o plano revisado pelo grupo | `src/`, `experimentos/`, seções 7 e 8 do README | _preencher após revisão do grupo_ | Os testes locais da IA pegaram dois bugs no próprio código dela (prompt após fechar stdin; mensagem `STATE` perdida no script do RE3), corrigidos antes do commit |
-| 4 | | | | | | | |
+| 4 | 06/11 | Kauã | Claude Code | Rascunho dos slides do seminário a partir do README e dos resultados | `slides/seminario.pptx` (9 slides, com notas do apresentador) | _preencher após revisão do grupo_ | Casos de uso do slide 3 ainda precisam ser conferidos nas fontes oficiais (seção 4) |
+| 5 | | | | | | | |
 
 ### Por área (preencher conforme o uso)
 
