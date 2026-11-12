@@ -10,7 +10,7 @@ Projeto prático de **Sistemas Distribuídos e Computação Paralela** (PUC-SP, 
 - Luan Capella
 - Pedro Evaristo
 
-> Status: **Entrega 2 (06/11) — POC implementada** (RF1–RF6). Slides do seminário em [`slides/seminario.pptx`](slides/seminario.pptx). Experimentos RE2/RE3 executados localmente; falta repetir em duas máquinas (RE1) e anotar os resultados finais.
+> Status: **Entrega 2 (06/11) — POC implementada** (RF1–RF6). Slides do seminário em [`slides/seminario.pdf`](slides/seminario.pdf). Experimentos RE2/RE3 executados localmente; falta repetir em duas máquinas (RE1) e anotar os resultados finais.
 
 ---
 
